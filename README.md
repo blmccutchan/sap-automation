@@ -6,7 +6,7 @@ The framework uses Terraform for infrastructure deployment, and Ansible for the 
 
 ## Partnership
 
-The project is being build in partnership with [SUSE](https://www.suse.com/) and [Red Hat](https://www.redhat.com/)
+The project is being built in partnership with [SUSE](https://www.suse.com/) and [Red Hat](https://www.redhat.com/)
 
 ## Documentation
 
